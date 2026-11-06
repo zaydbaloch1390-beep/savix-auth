@@ -8,17 +8,29 @@
       "maxDevices": 1
     },
     {
-      "username": "vip",
-      "password": "vip123",
+      "username": "user1",
+      "password": "pass1",
       "deviceId": "",
       "expires": "2099-12-31 23:59:59",
-      "maxDevices": 3
+      "maxDevices": 2
+    },
+    {
+      "username": "user2",
+      "password": "pass2",
+      "deviceId": "",
+      "expires": "2099-12-31 23:59:59",
+      "maxDevices": 7
     }
   ],
   "licenses": [
     {
-      "code": "vip",
-      "maxUsers": 3,
+      "code": "user1",
+      "maxUsers": 2,
+      "usedBy": []
+    },
+    {
+      "code": "user2",
+      "maxUsers": 7,
       "usedBy": []
     }
   ],
