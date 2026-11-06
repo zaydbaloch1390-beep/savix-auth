@@ -6,8 +6,21 @@
       "deviceId": "7e14931a1f5f0e78",
       "expires": "2099-12-31 23:59:59",
       "maxDevices": 1
+    },
+    {
+      "username": "vip",
+      "password": "vip123",
+      "deviceId": "",
+      "expires": "2099-12-31 23:59:59",
+      "maxDevices": 3
     }
   ],
-  "licenses": [],
+  "licenses": [
+    {
+      "code": "vip",
+      "maxUsers": 3,
+      "usedBy": []
+    }
+  ],
   "globalMessage": ""
 }
