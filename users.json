@@ -1,1 +1,22 @@
-{"users":[{"username":"admin","password":"admin123","deviceId":"7e14931a1f5f0e78","expires":"2099-12-31 23:59:59","maxDevices":1},{"username":"69","password":"69","deviceId":"","expires":"2099-12-31 23:59:59","maxDevices":1},{"username":"ff","password":"12","expires":"2099-12-31 23:59:59","deviceId":"","maxDevices":1}],"licenses":[{"code":"69","maxUsers":1,"usedBy":[]},{"code":"ff","maxUsers":1,"usedBy":[]}]}
+{
+  "users": [
+    {
+      "username": "ali",
+      "password": "1234",
+      "deviceId": "abc123",
+      "expires": "2026-12-31 23:59:59",
+      "maxDevices": 1
+    }
+  ],
+  "licenses": [],
+  "sessions": [
+    {
+      "token": "a1b2c3d4e5f6...",
+      "username": "ali",
+      "deviceId": "abc123",
+      "createdAt": "2026-11-06 12:00:00",
+      "expires": "2026-12-31 23:59:59"
+    }
+  ],
+  "globalMessage": ""
+}
