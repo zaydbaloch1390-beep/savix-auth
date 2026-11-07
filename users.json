@@ -1,1 +1,13 @@
-{"users":[{"username":"ali","password":"1234","deviceId":"abc123","expires":"2026-12-31 23:59:59","maxDevices":1},{"username":"Savix","password":"13","deviceId":"","expires":"2099-12-31 23:59:59","maxDevices":1},{"username":"amir","password":"123","deviceId":"414d24abb03c7484","expires":"2099-12-31 23:59:59","maxDevices":1}]}
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "deviceId": "7e14931a1f5f0e78",
+      "expires": "2099-12-31 23:59:59",
+      "maxDevices": 1
+    }
+  ],
+  "licenses": [],
+  "globalMessage": ""
+}
